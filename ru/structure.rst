@@ -12,7 +12,7 @@
         app/
             cache/
             configs/
-            i10n/
+            i18n/
                 messages/
                     en_GB/
                     ru_RU/
