@@ -17,15 +17,23 @@
                     en_GB/
                     ru_RU/
             library/
-                Paramatma/
-                    core/
+                controller/
+                logger/
+                model/
+                ...
+                ...
             modules/
                 blog/
+                    configs/
                     controllers/
+                    i18n/
+                    library/
                     forms/
                     models/
                     resources/
                     schemas/
+                    themes/
+                     |
                     module.php
             resources/
             schemas/
