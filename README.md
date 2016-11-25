@@ -10,7 +10,7 @@ is automatically updated when any changes are made to this repository.
 You are welcome to fork this repository and add, correct or enhance the
 documentation yourselves.
 
-The documentation is written using [reStructuredText](http://sphinx.pocoo.org/rest.html) and is currently available in 2 different languages:
+The documentation is written using [reStructuredText](http://www.sphinx-doc.org/en/1.4.9/rest.html) and is currently available in 2 different languages:
 
 * [English (en)](https://docs.paramatma.io/en/latest/index.html)
 * [Russian / Русский (ru)](https://docs.paramatma.io/ru/latest/index.html)
